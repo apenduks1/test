@@ -1,0 +1,15 @@
+.comments--coment1--add {
+  border: none;
+}
+.comments--test {
+  display: none;
+  background-color: #eeeff4;
+  border-bottom: 2px solid #fff;
+  padding: 10px;
+}
+.comments--test1 {
+  display:block;
+  background-color: #eeeff4;
+  border-bottom: 2px solid #fff;
+  padding: 10px;
+}
